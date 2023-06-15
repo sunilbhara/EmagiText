@@ -1,4 +1,5 @@
-# EmagiText
+# EmagiText (Capturing the Essence of Ideas)
+
 
 ## Purpose
 The purpose of this project was to develop a web application that utilizes the MERN 
